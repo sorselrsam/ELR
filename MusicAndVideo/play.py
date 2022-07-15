@@ -125,7 +125,7 @@ async def play(client, m: Message):
                 await huehue.delete()
                 # await m.reply_to_message.delete()
                 await m.reply_photo(
-                    photo="https://te.legra.ph/file/402c519808f75bd9b1803.jpg",
+                    photo="https://telegra.ph/file/cc9d3ab087176593ec101.jpg",
                     caption=f"""
 -› اެبشࢪ ضفتهاެ ݪلانتضاࢪ {pos}
 -› اެݪاެسم: [{songname}]({link})
@@ -145,7 +145,7 @@ async def play(client, m: Message):
                 await huehue.delete()
                 # await m.reply_to_message.delete()
                 await m.reply_photo(
-                    photo="https://te.legra.ph/file/90e3b3aeb77e3e598d66d.jpg",
+                    photo="https://telegra.ph/file/cc9d3ab087176593ec101.jpg",
                     caption=f"""
 -› اެݪحِاެݪةِ : تَمِ اެݪتَشِغِيَݪ بَنِجَاެحِ
 -› اެݪاެسم: [{songname}]({link})
@@ -242,7 +242,7 @@ async def vplay(client, m: Message):
                 await huehue.delete()
                 # await m.reply_to_message.delete()
                 await m.reply_photo(
-                    photo="https://te.legra.ph/file/2a726c634dbc3b9e8f451.jpg",
+                    photo="https://telegra.ph/file/cc9d3ab087176593ec101.jpg",
                     caption=f"""
 **-› اެبشࢪ ضفتهاެ ݪلانتضاࢪ{pos}
 -› اެݪاެسم: [{songname}]({link})
@@ -266,7 +266,7 @@ async def vplay(client, m: Message):
                 await huehue.delete()
                 # await m.reply_to_message.delete()
                 await m.reply_photo(
-                    photo="https://te.legra.ph/file/466de30ee0f9383c8e09e.jpg",
+                    photo="https://telegra.ph/file/cc9d3ab087176593ec101.jpg",
                     caption=f"""
 **-› اެݪحِاެݪةِ : تَمِ اެݪتَشِغِيَݪ بَنِجَاެحِ
 -› اެݪاެسم: [{songname}]({link})
@@ -371,7 +371,7 @@ async def playfrom(client, m: Message):
                     add_to_queue(chat_id, songname, location, link, "اެݪصۅت", 0)
                     # await m.reply_to_message.delete()
                     await m.reply_photo(
-                        photo="https://te.legra.ph/file/430dcf25456f2bb38109f.jpg",
+                        photo="https://telegra.ph/file/cc9d3ab087176593ec101.jpg",
                         caption=f"""
 **-› اެبشࢪ ضفتهاެ ݪلانتضاࢪ {chat}
 -› اެݪاެسم: [{songname}]({link})
